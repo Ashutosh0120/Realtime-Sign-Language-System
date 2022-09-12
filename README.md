@@ -14,3 +14,5 @@ Sign Matching. <br>
 people who are deaf, blind and dumb. <br>
 3)Result: The extracted video sequences were used to train the model
 using LSTM Deep Learning Model. <br>
+
+Project Credits: Nicholas Renotte 
