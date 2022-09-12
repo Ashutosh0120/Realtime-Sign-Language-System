@@ -5,7 +5,7 @@ Technologies:
 3) OpenCV
 4) LSTM Deep Learning Model
 
-Key Features:
+Key Features: //
 1)Task: Developed a model using Tensorflow and Python, which can
 extract real-time video sequences, using OpenCV for Face and
 Sign Matching.
