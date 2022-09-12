@@ -7,7 +7,7 @@ Technologies:
 
 Key Features:
 
-1) <text color="green"> Task </text>: Developed a model using Tensorflow and Python, which can
+1) Task </text>: Developed a model using Tensorflow and Python, which can
 extract real-time video sequences, using OpenCV for Face and
 Sign Matching. <br>
 2) Action: This model can ease the method of communication, for those
