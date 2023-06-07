@@ -1,4 +1,4 @@
-## Realtime-Sign-Language-System
+## Realtime Sign Language Detection System
 ![243702697-56d1b1cf-431d-4276-804b-0b993fac8517](https://github.com/Ashutosh0120/Realtime-Sign-Language-System/assets/24804042/540e5563-480f-4e0d-b252-5d8bb8d1b0f0)
 <br>
 
